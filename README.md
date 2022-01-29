@@ -13,8 +13,9 @@ true|false
 
 如果创建快照，输入的文件路径
 
+```
 em: "src/xxx/xxx.js"
-
+```
 - projectType
 
 项目类型，可分为 walle, must 
@@ -27,13 +28,11 @@ em: "src/xxx/xxx.js"
 
 待处理的文件List
 
+```
 em: 
   'src/i18n/strings/zh-CN.json',
-
   'src/i18n/strings/en-US.json',
-
   'src/i18n/strings/ko-KR.json',
-
   'src/i18n/strings/ru-RU.json',
-
   'src/i18n/strings/ja-JP.json',
+```
