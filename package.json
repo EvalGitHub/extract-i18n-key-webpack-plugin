@@ -1,0 +1,23 @@
+{
+  "name": "extract-i18n-key-webpack-plugin",
+  "version": "0.0.1",
+  "description": "抽离项目中多余的i18n key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvalGitHub/extract-i18n-key-webpack-plugin.git"
+  },
+  "keywords": [
+    "i18n",
+    "key"
+  ],
+  "author": "evel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvalGitHub/extract-i18n-key-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/EvalGitHub/extract-i18n-key-webpack-plugin#readme"
+}
