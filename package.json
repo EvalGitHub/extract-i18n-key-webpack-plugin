@@ -1,6 +1,6 @@
 {
   "name": "extract-i18n-key-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "抽离项目中多余的i18n key",
   "main": "dist/index.js",
   "scripts": {
