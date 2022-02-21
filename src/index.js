@@ -34,7 +34,7 @@ class ExtractI18nKeyWebpackPlugin {
     const _this = this;
     const { i18nProjectName } = this.options;
     const pattern_str = new RegExp(
-      `(("|')key("|'):|id:)(\\n|\\s)*('|")${i18nProjectName}(\\.|\\w|\\-)+`,
+      `(("|')key("|'):|id:)?(\\n|\\s)*('|")${i18nProjectName}(\\.|\\w|\\-)+`,
       'g'
     );
     const pattern_str02 = new RegExp(`${i18nProjectName}(\\w|-|\\.)*`, 'g');
